@@ -41,7 +41,7 @@ porcentaje_llenado = st.sidebar.slider(
     "Porcentaje de llenado a evaluar (%)", 
     min_value=1, 
     max_value=100, 
-    value=15
+    value=50
 )
 
 z_bomba = st.sidebar.number_input(
