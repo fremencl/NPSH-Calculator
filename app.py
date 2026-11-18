@@ -184,7 +184,7 @@ if usar_calor:
         "1/2 pulgada": 0.02134
     }
     r_int_ais = diametros_od[diametro_linea] / 2.0
-    diametro_ext_ais = 0.100          # 100 mm de diámetro exterior total de aislación
+    diametro_ext_ais = 0.233          # 200 mm de diámetro exterior total de aislación
     r_ext_ais = diametro_ext_ais / 2.0
     k_espuma = 0.030                  # Conductividad espuma en buen estado (W/(m·K))
     h_ext = 9.0                       # Convección natural + radiación exterior (W/(m2·K))
